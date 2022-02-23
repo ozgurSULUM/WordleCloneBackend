@@ -1,0 +1,13 @@
+{
+  "name": "wordle-game-backend",
+  "version": "1.0.0",
+  "description": "wordle game backend for word detection",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ozgurs",
+  "license": "ISC"
+}
