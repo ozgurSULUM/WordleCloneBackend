@@ -5,3 +5,5 @@ Run server with the following code at terminal
 ````
 node server.js
 ````
+Frontend code link:
+https://github.com/ozgurSULUM/WordleCloneFrontend
